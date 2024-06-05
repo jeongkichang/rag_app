@@ -16,3 +16,6 @@ pip3 install requirements.txt -U
 ```bash
 streamlit run rag_pdfs_app.py --server.port 8080
 ```
+
+## Example
+<img width="1522" alt="image" src="https://github.com/jeongkichang/rag_app/assets/29831624/6e8b49e3-6c45-4979-bb00-b517efd1a809">
